@@ -313,7 +313,6 @@ nav ul img {
     right: -5px;
     width: 650px;
     height: 650px;
-    border-radius: 50%;
 }
 
 .hero-plate2 {
@@ -1755,7 +1754,7 @@ nav ul img {
         overflow: hidden;
         top: 0;
         left: 0;
-        height: 100vh;
+        height: 110vh;
         width: 100%;
     }
 
@@ -1764,7 +1763,7 @@ nav ul img {
         overflow: hidden;
         top: 0;
         left: 0;
-        height: 100vh;
+        height: 110vh;
         width: 100%;
         background: hsl(34, 100%, 96%);
         animation: heroslide linear 1s forwards;
@@ -1806,7 +1805,7 @@ nav ul img {
 
     .hero-left {
         position: absolute;
-        top: 15vh;
+        top: 13vh;
         left: 5%;
         height: 40vh;
         width: 90%;
@@ -1826,7 +1825,7 @@ nav ul img {
 
     .hero-intro p {
         text-align: center;
-        font-size: 2.3rem;
+        font-size: 2rem;
         font-family: "Lora", serif;
         color: hsl(22, 100%, 8%);
     }
@@ -1848,7 +1847,7 @@ nav ul img {
     .contact-button {
         position: absolute;
         cursor: pointer;
-        top: 70%;
+        top: 75%;
         left: 5%;
         width: 45%;
         height: 45px;
@@ -1874,7 +1873,7 @@ nav ul img {
 
     .resume-button {
         position: absolute;
-        top: 70%;
+        top: 75%;
         left: 60%;
         width: 35%;
         height: 45px;
@@ -1926,10 +1925,10 @@ nav ul img {
 
     .hero-right {
         position: absolute;
-        bottom: 0;
+        top: 50vh;
         right: 0;
         width: 100%;
-        height: 450px;
+        height: 50%;
     }
 
     .chefshadow {
@@ -1938,7 +1937,7 @@ nav ul img {
 
     .chef {
         position: relative;
-        top: 105px;
+        top: 90px;
         left: 15.5%;
         height: 68.3%;
         width: 69.2%;
@@ -1955,7 +1954,7 @@ nav ul img {
 
     .hero-experience {
         position: absolute;
-        top: 17%;
+        top: 10%;
         left: 3%;
         height: 27px;
         width: 155px;
@@ -1977,7 +1976,7 @@ nav ul img {
 
     .hero-awards {
         position: absolute;
-        top: 45%;
+        top: 50%;
         left: 5%;
         height: 27px;
         width: 90px;
@@ -1999,8 +1998,8 @@ nav ul img {
 
     .hero-events {
         position: absolute;
-        top: 28%;
-        right: 5%;
+        top: 38%;
+        right: 3%;
         height: 30px;
         width: 125px;
         border-radius: 6px;
@@ -2025,7 +2024,7 @@ nav ul img {
         z-index: 5;
         top: 0;
         width: 100%;
-        height: 100vh;
+        height: 120vh;
         background-color: hsl(34, 100%, 92%);
         box-shadow: 20px -20px 50px hsl(34, 100%, 92%), 20px -20px 50px hsl(34, 100%, 92%), 20px -20px 50px hsl(34, 100%, 92%);
     }
@@ -2110,7 +2109,7 @@ nav ul img {
         position: absolute;
         top: 22%;
         left: 0;
-        height: 88px;
+        height: 100px;
         width: 40%;
         border-radius: 15px;
         background-color: #fffafa;
@@ -2188,7 +2187,7 @@ nav ul img {
         position: absolute;
         top: 60%;
         right: 0;
-        height: 75px;
+        height: 90px;
         width: 27%;
         border-radius: 15px;
         background-color: #fffafa;
@@ -2227,7 +2226,7 @@ nav ul img {
         position: relative;
         overflow: hidden;
         top: 0;
-        height: 130vh;
+        height: 140vh;
         width: 100%;
         background: hsl(34, 100%, 88%);
     }
@@ -2246,7 +2245,7 @@ nav ul img {
         position: absolute;
         top: 7%;
         left: 17%;
-        height: 88%;
+        height: 90%;
         width: 66%;
         background-color: #545465;
     }
@@ -2417,7 +2416,7 @@ nav ul img {
         position: absolute;
         top: 6%;
         left: 20%;
-        height: 14%;
+        height: 16%;
         width: 90%;
         background-color: #74809aeb;
         box-shadow: -2px -2px 15px rgba(0, 0, 0, 0.578);
@@ -2483,9 +2482,9 @@ nav ul img {
     .exam-pad {
         position: absolute;
         top: 0;
-        left: 9.5%;
+        left: 6%;
         height: 500px;
-        width: 300px;
+        width: 86%;
     }
 
     .exam-pad img {
@@ -2498,8 +2497,8 @@ nav ul img {
         position: absolute;
         text-align: center;
         top: 65px;
-        left: 15px;
-        width: 270px;
+        left: 5%;
+        width: 90%;
         height: 50px;
         font-size: 2rem;
         font-family: "Lora", serif;
@@ -2633,7 +2632,7 @@ nav ul img {
         overflow: hidden;
         top: 0;
         left: 0;
-        height: 100vh;
+        height: 110vh;
         width: 100%;
         background-color: hsl(34, 100%, 92%);
     }
@@ -2969,7 +2968,7 @@ nav ul img {
         opacity: 0.5;
         height: 40px;
         width: 40px;
-        bottom: 8%;
+        bottom: 5%;
         left: 10%;
     }
 
@@ -2978,7 +2977,7 @@ nav ul img {
         opacity: 0.4;
         height: 60px;
         width: 70px;
-        bottom: 50%;
+        bottom: 55%;
         right: 7%;
     }
 
