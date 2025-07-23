@@ -1005,14 +1005,17 @@ nav ul img {
 .left-icon,
 .right-icon {
     position: absolute;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
     top: 41%;
     transform: translateY(-50%);
     background: none;
-    color: white;
+    color: rgb(0, 0, 0);
     border: none;
     cursor: pointer;
-    padding: 10px;
     font-size: 1.5rem;
+    background-color: white;
 }
 
 .left-icon {
@@ -2578,12 +2581,14 @@ nav ul img {
     .right-icon {
         position: absolute;
         top: 71%;
+        height: 30px;
+        width: 30px;
+        border-radius: 30px;
+        background-color: white;
         transform: translateY(-50%);
-        background: none;
-        color: white;
+        color: rgb(0, 0, 0);
         border: none;
         cursor: pointer;
-        padding: 10px;
         font-size: 1.5rem;
     }
 
